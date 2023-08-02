@@ -5,7 +5,7 @@ servers:
   - url: http://localhost:8080
     description: Local Development
 info:
-  title: Reworkly APIs
+  title: Reworkly APIs (remote)
   version: v1
   termsOfService: "https://developer.reworkly.com/legal/"
   contact:
@@ -27,9 +27,6 @@ info:
     - [Employees](#tag/employees-overview)
     - [Time and Scheduling](#tag/time-overview)
     - [Payroll](#tag/payroll-overview)
-
-    haha:
-      
     - [Server](#tag/server-overview)
     - [List of Values (LOV)](#tag/lov-overview)
     - [Profile](#tag/profile-overview)
